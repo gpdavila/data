@@ -1,0 +1,110 @@
+Allocation Time (ms): 0.189000
+Initialization Time (ms): 5956.198000
+Total Proxies Time (ms): 3188.435000
+CPU Proxy:
+	CPU Proxy: Kernel Time (ms): 3165.597000
+GPU Proxy:
+	GPU Proxy: Copy To Device Time (ms): 15.794000
+	GPU Proxy: Kernel Time (ms): 68.702000
+	GPU Proxy: Copy Back Time (ms): 11.614000
+Deallocation Time (ms): 6.833000
+Test Passed
+Allocation Time (ms): 0.130000
+Initialization Time (ms): 5781.544000
+Total Proxies Time (ms): 3374.257000
+CPU Proxy:
+	CPU Proxy: Kernel Time (ms): 3351.546000
+GPU Proxy:
+	GPU Proxy: Copy To Device Time (ms): 15.376000
+	GPU Proxy: Kernel Time (ms): 69.099000
+	GPU Proxy: Copy Back Time (ms): 11.300000
+Deallocation Time (ms): 7.985000
+Test Passed
+Allocation Time (ms): 0.229000
+Initialization Time (ms): 5682.303000
+Total Proxies Time (ms): 3301.520000
+CPU Proxy:
+	CPU Proxy: Kernel Time (ms): 3279.044000
+GPU Proxy:
+	GPU Proxy: Copy To Device Time (ms): 16.822000
+	GPU Proxy: Kernel Time (ms): 69.847000
+	GPU Proxy: Copy Back Time (ms): 11.933000
+Deallocation Time (ms): 6.786000
+Test Passed
+Allocation Time (ms): 0.129000
+Initialization Time (ms): 5907.636000
+Total Proxies Time (ms): 3255.364000
+CPU Proxy:
+	CPU Proxy: Kernel Time (ms): 3232.243000
+GPU Proxy:
+	GPU Proxy: Copy To Device Time (ms): 15.425000
+	GPU Proxy: Kernel Time (ms): 72.927000
+	GPU Proxy: Copy Back Time (ms): 11.159000
+Deallocation Time (ms): 7.782000
+Test Passed
+Allocation Time (ms): 0.239000
+Initialization Time (ms): 5641.793000
+Total Proxies Time (ms): 3257.857000
+CPU Proxy:
+	CPU Proxy: Kernel Time (ms): 3234.595000
+GPU Proxy:
+	GPU Proxy: Copy To Device Time (ms): 18.979000
+	GPU Proxy: Kernel Time (ms): 72.388000
+	GPU Proxy: Copy Back Time (ms): 13.540000
+Deallocation Time (ms): 8.159000
+Test Passed
+Allocation Time (ms): 0.125000
+Initialization Time (ms): 5537.060000
+Total Proxies Time (ms): 3245.392000
+CPU Proxy:
+	CPU Proxy: Kernel Time (ms): 3222.293000
+GPU Proxy:
+	GPU Proxy: Copy To Device Time (ms): 14.764000
+	GPU Proxy: Kernel Time (ms): 71.999000
+	GPU Proxy: Copy Back Time (ms): 11.061000
+Deallocation Time (ms): 7.443000
+Test Passed
+Allocation Time (ms): 0.130000
+Initialization Time (ms): 5569.057000
+Total Proxies Time (ms): 3184.844000
+CPU Proxy:
+	CPU Proxy: Kernel Time (ms): 3161.126000
+GPU Proxy:
+	GPU Proxy: Copy To Device Time (ms): 15.859000
+	GPU Proxy: Kernel Time (ms): 68.210000
+	GPU Proxy: Copy Back Time (ms): 10.932000
+Deallocation Time (ms): 8.914000
+Test Passed
+Allocation Time (ms): 0.240000
+Initialization Time (ms): 5603.764000
+Total Proxies Time (ms): 3263.713000
+CPU Proxy:
+	CPU Proxy: Kernel Time (ms): 3241.079000
+GPU Proxy:
+	GPU Proxy: Copy To Device Time (ms): 15.514000
+	GPU Proxy: Kernel Time (ms): 72.007000
+	GPU Proxy: Copy Back Time (ms): 11.189000
+Deallocation Time (ms): 6.985000
+Test Passed
+Allocation Time (ms): 0.233000
+Initialization Time (ms): 5650.781000
+Total Proxies Time (ms): 3154.856000
+CPU Proxy:
+	CPU Proxy: Kernel Time (ms): 3130.961000
+GPU Proxy:
+	GPU Proxy: Copy To Device Time (ms): 15.716000
+	GPU Proxy: Kernel Time (ms): 74.205000
+	GPU Proxy: Copy Back Time (ms): 19.521000
+Deallocation Time (ms): 8.716000
+Test Passed
+Allocation Time (ms): 0.122000
+Initialization Time (ms): 5561.340000
+Total Proxies Time (ms): 3174.431000
+CPU Proxy:
+	CPU Proxy: Kernel Time (ms): 3152.070000
+GPU Proxy:
+	GPU Proxy: Copy To Device Time (ms): 15.783000
+	GPU Proxy: Kernel Time (ms): 71.364000
+	GPU Proxy: Copy Back Time (ms): 11.391000
+Deallocation Time (ms): 7.457000
+Test Passed
